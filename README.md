@@ -34,6 +34,7 @@ Borrow = A’B
 Figure -02 HALF Subtractor
 
 **Truthtable**
+
 ![Screenshot 2024-03-21 104609](https://github.com/Suriya-MD/HALF_ADDER_SUBTRACTOR/assets/147120571/ec7ded37-5340-4151-8dd7-68f99e02ea02)
 
 **Procedure**
@@ -67,10 +68,13 @@ Developed by: SURIYA M
 
 RegisterNumber: 212223110055
 
+
 **RTL Schematic**
+
 ![Screenshot 2024-03-19 094006](https://github.com/Suriya-MD/HALF_ADDER_SUBTRACTOR/assets/147120571/90de3ac2-73b8-4801-b465-f382c714551a)
 
 **Output/TIMING Waveform**
+
 ![Screenshot 2024-03-19 085103](https://github.com/Suriya-MD/HALF_ADDER_SUBTRACTOR/assets/147120571/ea1b3d8d-ff9c-42fc-a9f6-e5b74f702443)
 
 **Result:**
